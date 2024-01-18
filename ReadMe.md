@@ -1,4 +1,4 @@
-**# Unleash Your Inner Thrill Seeker with Roller Coaster Data **
+** # Unleash Your Inner Thrill Seeker with Roller Coaster Data **
 
 Dive into the captivating world of roller coasters with this analysis of rankings, statistics, and trends! Explore  award-winning wood and steel coasters from 2013-2018 Golden Ticket Awards & Captain Coaster, all powered by Python and interactive visualizations.
 
@@ -23,7 +23,7 @@ Dive into the captivating world of roller coasters with this analysis of ranking
 
 ###  Methods and Tools
 
-**Data Manipulation:**
+* Data Manipulation: *
 
 `def`, `values`, `lambda`, `groupby`, `in`, `sum`, `value_counts`, `dropna`, `mean`, `sort_values`, `
 
